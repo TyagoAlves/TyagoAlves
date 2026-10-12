@@ -16,7 +16,6 @@ Sou apaixonado por tecnologia, resolução de problemas e automação. Utilizo o
 
 Aqui no meu perfil você vai encontrar diversos tipos de projetos:
 
-*   **[VoiceTicket](https://github.com/TyagoAlves/VoiceTicket-Front):** Projeto de extensão universitária voltado para a abertura e classificação inteligente de chamados de suporte de TI.
 *   **[Service Desk & Infraestrutura](https://github.com/TyagoAlves/Portf-lio-Service-Desk):** Portfólios, documentações e ferramentas (como o `Site-American-Service-Desk`) voltados para rotinas de N1/N2.
 *   **[Rastreador Pet (Integra Web)](https://github.com/TyagoAlves/Rastreador-Pet-Integra-Web):** Projeto unindo desenvolvimento e soluções de rastreamento (inspirado na minha American Bully, Pérola, e nas minhas iniciativas com impressão 3D).
 *   **[Cursos e Desafios (Alura)](https://github.com/TyagoAlves/cursos-Alura):** Repositórios com minhas trilhas de aprendizado em Python, Java, JavaScript, PHP e Arquitetura.
