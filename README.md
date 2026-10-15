@@ -1,6 +1,6 @@
 # Olá, eu sou o Tyago Alves! 👋
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Técnico de Informática Júnior (Service Desk N1)** em Brasília, DF. 
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Técnico de Informática Júnior (Service Desk N1/N2)** em Brasília, DF. 
 
 Sou apaixonado por tecnologia, resolução de problemas e automação. Utilizo o GitHub para versionar meus projetos acadêmicos, documentar procedimentos de infraestrutura/suporte e registrar minha evolução como desenvolvedor e concurseiro da área de TI.
 
