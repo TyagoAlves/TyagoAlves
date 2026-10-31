@@ -17,7 +17,6 @@ Sou apaixonado por tecnologia, resolução de problemas e automação. Utilizo o
 Aqui no meu perfil você vai encontrar diversos tipos de projetos:
 
 *   **[Service Desk & Infraestrutura](https://github.com/TyagoAlves/Portf-lio-Service-Desk):** Portfólios, documentações e ferramentas (como o `Site-American-Service-Desk`) voltados para rotinas de N1/N2.
-*   **[Cursos e Desafios (Alura)](https://github.com/TyagoAlves/cursos-Alura):** Repositórios com minhas trilhas de aprendizado em Python, Java, JavaScript, PHP e Arquitetura.
 *   **[Blog & Concursos](https://github.com/TyagoAlves/Blog):** Meu "segundo cérebro" com anotações de TI, laboratórios de Linux (Arch, Bazzite) e meu radar de editais.
 
 ## 🛠️ Tecnologias & Ferramentas
