@@ -30,7 +30,7 @@ Aqui no meu perfil você vai encontrar diversos tipos de projetos:
 ## 📫 Como me encontrar
 
 - 💼 **LinkedIn:** [www.linkedin.com/in/tyago-alves-de-souza-26ba83180]
-- 📧 **Email:** [Tyagoalvesde@outlook.com.br]
+- 📧 **Email:** [Tyagoalvesds@outlook.com.br]
 
 ---
 ⭐️ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.*
